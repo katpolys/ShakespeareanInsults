@@ -1,1 +1,1 @@
-# ShakespeareanInsults
+# Shakespearean Insults
