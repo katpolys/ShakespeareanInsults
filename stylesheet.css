@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    width: 1400px;
+    height: 1008px;
+}
+h1{
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    text-shadow: 2px 2px #A38560;
+    font-size: 90px;
+}
+#wordbox, #wordbox1, #wordbox2 {
+    margin: 30px auto 0;
+    display: block;
+    width: 350px;
+    height: 120px;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Zeyada', cursive;
+    text-shadow: 1px 1px #A38560;
+    font-weight:bold;
+    background: transparent;
+    border-color: transparent;
+}
