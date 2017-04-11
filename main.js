@@ -219,3 +219,10 @@ function col3(word3){
     }
 }
 document.getElementById("col3").innerHTML = col3();
+window.onload = function() {
+    document.getElementById("sendButton").onclick = function() {
+        if (check()) {
+            send();
+        }
+    };
+};
