@@ -2,8 +2,7 @@ body{
     background-position: center;
     background-image: url("img/background.jpg");
     background-size: cover;
-    width: 1400px;
-    height: 1008px;
+
 }
 h1{
     font-family: 'Tangerine', cursive;
